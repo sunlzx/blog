@@ -3,6 +3,8 @@
 
 [博客 - 伯乐在线](http://blog.jobbole.com/ "博客 - 伯乐在线")
 
+[developerWorks : Java 技术专区 - 关于 Java 标准和技术的文章、教程和其他技术资源](http://www.ibm.com/developerworks/cn/java/)
+
 [Startup News](http://news.dbanotes.net/ "Startup News")
 
 [InfoQ - 促进软件开发领域知识与创新的传播](http://www.infoq.com/cn/ "InfoQ - 促进软件开发领域知识与创新的传播")
