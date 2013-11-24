@@ -1,39 +1,40 @@
-# 论坛 #
-[并发编程网](http://ifeve.com/ "并发编程网")
+# Jekyll-Bootstrap
 
-[博客 - 伯乐在线](http://blog.jobbole.com/ "博客 - 伯乐在线")
+The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
-[developerWorks : Java 技术专区 - 关于 Java 标准和技术的文章、教程和其他技术资源](http://www.ibm.com/developerworks/cn/java/)
+## Usage
 
-[Startup News](http://news.dbanotes.net/ "Startup News")
+For all usage and documentation please see: <http://jekyllbootstrap.com>
 
-[InfoQ - 促进软件开发领域知识与创新的传播](http://www.infoq.com/cn/ "InfoQ - 促进软件开发领域知识与创新的传播")
+## Version
 
-[腾讯大讲堂](http://djt.qq.com/ "腾讯大讲堂")
+0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
 
-# 个人博客 #
+**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
+However, the actual API has not changed at all.
+You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
 
-[5iyou的博客](http://simpleframework.net/blog/11324.html "5iyou的博客")
-
-
-
-# 数据结构算法 #
-
-[结构之法 算法之道](http://blog.csdn.net/v_JULY_v?viewmode=contents "结构之法 算法之道")
-
-[基础知识整理 | 董的博客](http://dongxicheng.org/knowledges-carding/ "基础知识整理 | 董的博客")
-
-[[经典排序算法][集锦] - kkun - 博客园](http://www.cnblogs.com/kkun/archive/2011/11/23/2260312.html "[经典排序算法][集锦] - kkun - 博客园")
-
-[Algorithm and Problem - 海 子 - 博客园](http://www.cnblogs.com/dolphin0520/category/327629.html "Algorithm and Problem - 海 子 - 博客园")
-
-# 公众账号 #
+## Contributing
 
 
+To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
+This is very important as it allows me to accept your pull request without having to publish a public version release.
 
-[道哥的黑板报](http://taosay.net/ "道哥的黑板报")
+Small, atomic Features, bugs, etc.
+Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
+Please rebase as often as possible when working.
+Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
 
-# linux 命令 #
-[妈咪，我找到了! -- 15个实用的Linux find命令示例](http://blog.jobbole.com/48856/)
+For Big Features or major API extensions/edits:
+This is the one case where I'll accept pull-requests based off the master branch.
+This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
+Translation : it might take a bit longer so please be patient! (but sincerely thank you).
 
-[http://xx](http://xx "aaa")
+**Jekyll-Bootstrap Documentation Website.**
+
+The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
+
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
